@@ -47,7 +47,7 @@ h1{
 .badminton{
     position: absolute;
     right: 120px;
-    top: 1360px;
+    top: 220%;
     border: solid;
     border-radius: 100%;
 }
@@ -57,7 +57,7 @@ td{
 .web{
     position: absolute;
     left: 230px;
-    top: 1170px;
+    top: 190%;
     border: solid;
 }
 .web:hover{
