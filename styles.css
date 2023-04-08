@@ -1,0 +1,91 @@
+.body{
+    text-align: center;
+    /* font-family: Merriweather ,Arial, sans-serif; */
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: noto sans korean;
+    background-color:rgb(222, 233, 233);
+}
+.center{
+    
+    background-color:rgb(222, 233, 233);
+    
+}
+.top-cloud{
+    position: relative;
+    left: 250px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+hr{
+    border: dotted dotted none;
+    color: yellow;
+}
+.profile{
+     border-radius: 100%;
+     margin-top: 10px;
+     border: solid;
+}
+h2{
+    color: orange;
+    font-size: 30px;
+    text-decoration: underline;
+     text-shadow: none;
+    /* font-weight: normal; */
+}
+p{
+    color: black;
+    font-size: 20px;
+    line-height: 2;
+}
+h1{
+    color:darkgreen;
+    line-height: 2;
+    /* text-decoration: underline; */
+}
+.badminton{
+    position: absolute;
+    right: 120px;
+    top: 1360px;
+    border: solid;
+    border-radius: 100%;
+}
+td{
+    font-size: 20px;
+}
+.web{
+    position: absolute;
+    left: 230px;
+    top: 1170px;
+    border: solid;
+}
+.web:hover{
+border-radius: 100%;
+}
+.laser{
+    position: relative;
+    height: 200px;
+    width: 450px;
+    color: cadetblue;
+    border: solid;
+}
+li{
+    line-height: 2;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(180, 180, 206);
+}
+a{
+    text-decoration: none;
+}
+.bdiv{
+    height: 50px;
+    width: 100%;
+    background-color:rgb(98, 82, 187);
+    padding: 10px;
+}
+strong{
+    text-decoration: underline;
+}
