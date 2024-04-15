@@ -1,2 +1,2 @@
 # My-Portfolio
-I have used HTML and CSS to create it.
+This is my portfolio where I tried to write all about myself.
